@@ -1,0 +1,6 @@
+#Extras
+vultur_rx2.py: PC interface tha shows flight status data, live map and receiver of pictures to check for focus and exposure.
+
+Send2pics.py: script to run on raspberry to send a pair of pictures via telemetry to vultur_rx2.py
+
+Receiver_map_live.py: to run on PC, shows live photo coverage over a map.
